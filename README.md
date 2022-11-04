@@ -1,7 +1,8 @@
 # rickroll-plugin-for-chrome
 
 cre: [lê ngọc cương](https://www.facebook.com/lengoccuong.757/)
-join: [[lê ngọc cương](https://discord.gg/WGckkSyupg)
+< br/>
+join: [lê ngọc cương](https://discord.gg/WGckkSyupg)
 
 # hưỡng dẫn thêm:
 
