@@ -11,5 +11,5 @@ join: [[lê ngọc cương](https://discord.gg/WGckkSyupg)
 # hưỡng dẫn xóa:
 
 ![alt text](imgs/-1.png)
-![alt text](imgs/2.png)
+![alt text](imgs/1.png)
 
